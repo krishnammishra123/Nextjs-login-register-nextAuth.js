@@ -9,11 +9,17 @@ npm run dev
  
 ```
 # worked on
+
 1.Register User.
+
 2.Login user.
+
 3.authenticate the user using NextAuth.
+
 4.Protected Route.
+
 5.Logout.
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
